@@ -1,0 +1,4 @@
+#ignore executable files
+*.exe 
+#ignore classes of java
+*.class 
